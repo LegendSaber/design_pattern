@@ -2713,9 +2713,6 @@
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3jda2p2d7kfwn/s-grqreldbnh-kfa2ma-bviyi7ir3lv5rvjfy804e4g2b/query-cache.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3jda2p2d7kfwn/s-grqreldbnh-kfa2ma-bviyi7ir3lv5rvjfy804e4g2b/work-products.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3jda2p2d7kfwn/s-grqreldbnh-kfa2ma.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterator_pattern/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterator_pattern/src/iterator.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterator_pattern/src/main.rs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/Cargo.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/Cargo.toml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/src/lib.rs" afterDir="false" />
@@ -2953,10 +2950,6 @@
       <change afterPath="$PROJECT_DIR$/../win-driver/.idea/win-driver.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../win-driver/Makefile.toml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../win-driver/build.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/design_pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/design_pattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -2996,7 +2989,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "9430116c",
+    "git-widget-placeholder": "9ba4c588",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",

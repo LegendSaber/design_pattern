@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/factory_pattern/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/iterator_pattern/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/singleton_pattern/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/template_pattern/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

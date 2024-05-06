@@ -26,3 +26,7 @@ version = "0.1.0"
 dependencies = [
  "lazy_static",
 ]
+
+[[package]]
+name = "template_pattern"
+version = "0.1.0"
