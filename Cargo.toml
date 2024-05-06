@@ -4,6 +4,7 @@ members = [
     "factory_pattern",
     "iterator_pattern",
     "singleton_pattern",
+    "strategy_pattern",
     "template_pattern"
 ]
 

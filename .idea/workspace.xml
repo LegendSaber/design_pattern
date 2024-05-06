@@ -2713,6 +2713,9 @@
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3jda2p2d7kfwn/s-grqreldbnh-kfa2ma-bviyi7ir3lv5rvjfy804e4g2b/query-cache.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3jda2p2d7kfwn/s-grqreldbnh-kfa2ma-bviyi7ir3lv5rvjfy804e4g2b/work-products.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3jda2p2d7kfwn/s-grqreldbnh-kfa2ma.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy_pattern/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy_pattern/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy_pattern/src/strategy.rs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/Cargo.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/Cargo.toml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/src/lib.rs" afterDir="false" />
@@ -2950,6 +2953,10 @@
       <change afterPath="$PROJECT_DIR$/../win-driver/.idea/win-driver.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../win-driver/Makefile.toml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../win-driver/build.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/design_pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/design_pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -2986,10 +2993,11 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Cargo.Run iterator_pattern.executor": "Run",
+    "Cargo.Run strategy_pattern.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "9ba4c588",
+    "git-widget-placeholder": "fe34ddda",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -3007,7 +3015,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Cargo.Run strategy_pattern">
     <configuration name="Run iterator_pattern" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="command" value="run --package iterator_pattern --bin iterator_pattern" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -3025,8 +3033,26 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Run strategy_pattern" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package strategy_pattern --bin strategy_pattern" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cargo.Run strategy_pattern" />
         <item itemvalue="Cargo.Run iterator_pattern" />
       </list>
     </recent_temporary>

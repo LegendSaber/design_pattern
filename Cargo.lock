@@ -28,5 +28,9 @@ dependencies = [
 ]
 
 [[package]]
+name = "strategy_pattern"
+version = "0.1.0"
+
+[[package]]
 name = "template_pattern"
 version = "0.1.0"
