@@ -2,6 +2,7 @@
 members = [
     "adapter_pattern",
     "factory_pattern",
+    "iterator_pattern",
     "singleton_pattern"
 ]
 
