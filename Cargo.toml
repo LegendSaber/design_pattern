@@ -1,5 +1,6 @@
 [workspace]
 members = [
+    "adapter_pattern",
     "factory_pattern",
     "singleton_pattern"
 ]
