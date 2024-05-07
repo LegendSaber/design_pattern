@@ -8,6 +8,7 @@ members = [
     "iterator_pattern",
     "observer_pattern",
     "prototype_pattern",
+    "proxy_pattern",
     "singleton_pattern",
     "strategy_pattern",
     "template_pattern"
