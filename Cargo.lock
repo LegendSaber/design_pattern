@@ -33,6 +33,10 @@ name = "observer_pattern"
 version = "0.1.0"
 
 [[package]]
+name = "prototype_pattern"
+version = "0.1.0"
+
+[[package]]
 name = "singleton_pattern"
 version = "0.1.0"
 dependencies = [
