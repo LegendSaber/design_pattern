@@ -7,6 +7,10 @@ name = "adapter_pattern"
 version = "0.1.0"
 
 [[package]]
+name = "bridge_pattern"
+version = "0.1.0"
+
+[[package]]
 name = "factory_pattern"
 version = "0.1.0"
 

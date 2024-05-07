@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "adapter_pattern",
+    "bridge_pattern",
     "factory_pattern",
     "iterator_pattern",
     "observer_pattern",
