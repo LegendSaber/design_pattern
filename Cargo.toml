@@ -3,6 +3,7 @@ members = [
     "adapter_pattern",
     "factory_pattern",
     "iterator_pattern",
+    "observer_pattern",
     "singleton_pattern",
     "strategy_pattern",
     "template_pattern"

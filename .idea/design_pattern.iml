@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/adapter_pattern/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/factory_pattern/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/iterator_pattern/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/observer_pattern/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/singleton_pattern/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/strategy_pattern/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/template_pattern/src" isTestSource="false" />
