@@ -4,6 +4,7 @@ members = [
     "bridge_pattern",
     "builder_pattern",
     "factory_pattern",
+    "flyweight_pattern",
     "iterator_pattern",
     "observer_pattern",
     "prototype_pattern",

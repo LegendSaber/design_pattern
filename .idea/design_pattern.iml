@@ -11,6 +11,8 @@
       <sourceFolder url="file://$MODULE_DIR$/template_pattern/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/bridge_pattern/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/builder_pattern/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/decorator_pattern/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flyweight_pattern/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/prototype_pattern/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
