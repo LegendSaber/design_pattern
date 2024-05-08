@@ -2735,9 +2735,9 @@
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/work-products.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/zqwzrdfhkxuca59.o" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/null_object_pattern/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/null_object_pattern/src/main.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/null_object_pattern/src/null_object.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/state_pattern/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/state_pattern/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/state_pattern/src/state.rs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/Cargo.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/Cargo.toml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/src/lib.rs" afterDir="false" />
@@ -3026,11 +3026,12 @@
     "Cargo.Run observer_pattern.executor": "Run",
     "Cargo.Run prototype_pattern.executor": "Run",
     "Cargo.Run proxy_pattern.executor": "Run",
+    "Cargo.Run state_pattern.executor": "Run",
     "Cargo.Run strategy_pattern.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "5f616c34",
+    "git-widget-placeholder": "d755433f",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -3048,7 +3049,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Cargo.Run null_object_pattern">
+  <component name="RunManager" selected="Cargo.Run state_pattern">
     <configuration name="Run command_pattern" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="command" value="run --package command_pattern --bin command_pattern" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -3117,8 +3118,8 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run proxy_pattern" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="command" value="run --package proxy_pattern --bin proxy_pattern" />
+    <configuration name="Run state_pattern" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package state_pattern --bin state_pattern" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
       <envs />
       <option name="emulateTerminal" value="true" />
@@ -3136,11 +3137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cargo.Run state_pattern" />
         <item itemvalue="Cargo.Run null_object_pattern" />
         <item itemvalue="Cargo.Run mediator_pattern" />
         <item itemvalue="Cargo.Run interpreter_pattern" />
         <item itemvalue="Cargo.Run command_pattern" />
-        <item itemvalue="Cargo.Run proxy_pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -3157,7 +3158,7 @@
       <updated>1714980190234</updated>
       <workItem from="1714980191725" duration="310000" />
       <workItem from="1715042124373" duration="20572000" />
-      <workItem from="1715128796003" duration="6158000" />
+      <workItem from="1715128796003" duration="7758000" />
     </task>
     <servers />
   </component>

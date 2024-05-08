@@ -15,6 +15,7 @@ members = [
     "prototype_pattern",
     "proxy_pattern",
     "singleton_pattern",
+    "state_pattern",
     "strategy_pattern",
     "template_pattern"
 ]

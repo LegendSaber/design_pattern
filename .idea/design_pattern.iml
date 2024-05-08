@@ -20,6 +20,7 @@
       <sourceFolder url="file://$MODULE_DIR$/mediator_pattern/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/memento_pattern/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/null_object_pattern/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/state_pattern/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
