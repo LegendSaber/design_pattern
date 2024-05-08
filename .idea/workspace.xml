@@ -2675,6 +2675,10 @@
       <change afterPath="$PROJECT_DIR$/../adder/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../adder/Cargo.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/.idea/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-1bezf9lij2iyk/s-gvxxel4awr-1w7aj8g-9086oo7lsugf8c7cjq0g2hfn1/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-1bezf9lij2iyk/s-gvxxel4awr-1w7aj8g-9086oo7lsugf8c7cjq0g2hfn1/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-1bezf9lij2iyk/s-gvxxel4awr-1w7aj8g-9086oo7lsugf8c7cjq0g2hfn1/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-1bezf9lij2iyk/s-gvxxel4awr-1w7aj8g.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-1hno6g99vgi2y/s-grqrefn1xv-kwnn9q-working/dep-graph.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-1hno6g99vgi2y/s-grqrefn1xv-kwnn9q-working/dep-graph.part.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-1hno6g99vgi2y/s-grqrefn1xv-kwnn9q-working/query-cache.bin" afterDir="false" />
@@ -2694,6 +2698,10 @@
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-1hno6g99vgi2y/s-grqreldb69-1d48avk-b7lym24q78x51a52vdu0gm4c6/query-cache.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-1hno6g99vgi2y/s-grqreldb69-1d48avk-b7lym24q78x51a52vdu0gm4c6/work-products.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-1hno6g99vgi2y/s-grqreldb69-1d48avk.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3hby0gv9ki81d/s-gvxxel4bbm-qrljkh-declggrymp45pe83lmjxlkjd3/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3hby0gv9ki81d/s-gvxxel4bbm-qrljkh-declggrymp45pe83lmjxlkjd3/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3hby0gv9ki81d/s-gvxxel4bbm-qrljkh-declggrymp45pe83lmjxlkjd3/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3hby0gv9ki81d/s-gvxxel4bbm-qrljkh.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3jda2p2d7kfwn/s-grqrefn1ee-vqbjgr-working/dep-graph.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3jda2p2d7kfwn/s-grqrefn1ee-vqbjgr-working/dep-graph.part.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3jda2p2d7kfwn/s-grqrefn1ee-vqbjgr-working/query-cache.bin" afterDir="false" />
@@ -2713,9 +2721,23 @@
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3jda2p2d7kfwn/s-grqreldbnh-kfa2ma-bviyi7ir3lv5rvjfy804e4g2b/query-cache.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3jda2p2d7kfwn/s-grqreldbnh-kfa2ma-bviyi7ir3lv5rvjfy804e4g2b/work-products.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3jda2p2d7kfwn/s-grqreldbnh-kfa2ma.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy_pattern/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy_pattern/src/main.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy_pattern/src/proxy.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/1diifnbo14svv7sj.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/1u93q51r6fpy9xlb.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/2ea1ri4cfjccfdg4.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/355g9o19e6e7got.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/3fba8gs7blujs1ix.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/3pw053un8i26jimx.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/52kcqurqysjis10i.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/53ugwt7qkplapwmh.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/57jihx7ch8osuknx.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/zqwzrdfhkxuca59.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command_pattern/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command_pattern/src/command.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/command_pattern/src/main.rs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/Cargo.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/Cargo.toml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/src/lib.rs" afterDir="false" />
@@ -2954,6 +2976,7 @@
       <change afterPath="$PROJECT_DIR$/../win-driver/Makefile.toml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../win-driver/build.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/design_pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/design_pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
     </list>
@@ -2994,15 +3017,17 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Cargo.Run bridge_pattern.executor": "Run",
     "Cargo.Run builder_pattern.executor": "Run",
+    "Cargo.Run command_pattern.executor": "Run",
     "Cargo.Run flyweight_pattern.executor": "Run",
     "Cargo.Run iterator_pattern.executor": "Run",
     "Cargo.Run observer_pattern.executor": "Run",
     "Cargo.Run prototype_pattern.executor": "Run",
+    "Cargo.Run proxy_pattern.executor": "Run",
     "Cargo.Run strategy_pattern.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "ae922ed5",
+    "git-widget-placeholder": "49fa6330",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -3020,9 +3045,9 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Cargo.Run proxy_pattern">
-    <configuration name="Run bridge_pattern" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="command" value="run --package bridge_pattern --bin bridge_pattern" />
+  <component name="RunManager" selected="Cargo.Run command_pattern">
+    <configuration name="Run builder_pattern" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package builder_pattern --bin builder_pattern" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
       <envs />
       <option name="emulateTerminal" value="true" />
@@ -3038,8 +3063,8 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run builder_pattern" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="command" value="run --package builder_pattern --bin builder_pattern" />
+    <configuration name="Run command_pattern" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package command_pattern --bin command_pattern" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
       <envs />
       <option name="emulateTerminal" value="true" />
@@ -3108,11 +3133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cargo.Run command_pattern" />
         <item itemvalue="Cargo.Run proxy_pattern" />
         <item itemvalue="Cargo.Run flyweight_pattern" />
         <item itemvalue="Cargo.Run prototype_pattern" />
         <item itemvalue="Cargo.Run builder_pattern" />
-        <item itemvalue="Cargo.Run bridge_pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -3128,7 +3153,8 @@
       <option name="presentableId" value="Default" />
       <updated>1714980190234</updated>
       <workItem from="1714980191725" duration="310000" />
-      <workItem from="1715042124373" duration="20155000" />
+      <workItem from="1715042124373" duration="20572000" />
+      <workItem from="1715128796003" duration="2017000" />
     </task>
     <servers />
   </component>
