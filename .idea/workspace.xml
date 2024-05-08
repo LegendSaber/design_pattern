@@ -2735,9 +2735,9 @@
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/work-products.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/zqwzrdfhkxuca59.o" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memento_pattern/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memento_pattern/src/main.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memento_pattern/src/memento.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/null_object_pattern/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/null_object_pattern/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/null_object_pattern/src/null_object.rs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/Cargo.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/Cargo.toml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/src/lib.rs" afterDir="false" />
@@ -3022,6 +3022,7 @@
     "Cargo.Run interpreter_pattern.executor": "Run",
     "Cargo.Run iterator_pattern.executor": "Run",
     "Cargo.Run mediator_pattern.executor": "Run",
+    "Cargo.Run null_object_pattern.executor": "Run",
     "Cargo.Run observer_pattern.executor": "Run",
     "Cargo.Run prototype_pattern.executor": "Run",
     "Cargo.Run proxy_pattern.executor": "Run",
@@ -3029,7 +3030,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "71fd9aed",
+    "git-widget-placeholder": "5f616c34",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -3047,26 +3048,9 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Cargo.Run mediator_pattern">
+  <component name="RunManager" selected="Cargo.Run null_object_pattern">
     <configuration name="Run command_pattern" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="command" value="run --package command_pattern --bin command_pattern" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <envs />
-      <option name="emulateTerminal" value="true" />
-      <option name="channel" value="DEFAULT" />
-      <option name="requiredFeatures" value="true" />
-      <option name="allFeatures" value="false" />
-      <option name="withSudo" value="false" />
-      <option name="buildTarget" value="REMOTE" />
-      <option name="backtrace" value="SHORT" />
-      <option name="isRedirectInput" value="false" />
-      <option name="redirectInputPath" value="" />
-      <method v="2">
-        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Run flyweight_pattern" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="command" value="run --package flyweight_pattern --bin flyweight_pattern" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
       <envs />
       <option name="emulateTerminal" value="true" />
@@ -3116,6 +3100,23 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Run null_object_pattern" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package null_object_pattern --bin null_object_pattern" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Run proxy_pattern" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="command" value="run --package proxy_pattern --bin proxy_pattern" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -3135,11 +3136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cargo.Run null_object_pattern" />
         <item itemvalue="Cargo.Run mediator_pattern" />
         <item itemvalue="Cargo.Run interpreter_pattern" />
         <item itemvalue="Cargo.Run command_pattern" />
         <item itemvalue="Cargo.Run proxy_pattern" />
-        <item itemvalue="Cargo.Run flyweight_pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -3156,7 +3157,7 @@
       <updated>1714980190234</updated>
       <workItem from="1714980191725" duration="310000" />
       <workItem from="1715042124373" duration="20572000" />
-      <workItem from="1715128796003" duration="4857000" />
+      <workItem from="1715128796003" duration="6158000" />
     </task>
     <servers />
   </component>

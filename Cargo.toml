@@ -10,6 +10,7 @@ members = [
     "iterator_pattern",
     "mediator_pattern",
     "memento_pattern",
+    "null_object_pattern",
     "observer_pattern",
     "prototype_pattern",
     "proxy_pattern",
