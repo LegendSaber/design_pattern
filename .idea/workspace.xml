@@ -2735,9 +2735,9 @@
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/work-products.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/zqwzrdfhkxuca59.o" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/state_pattern/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/state_pattern/src/main.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/state_pattern/src/state.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chain_of_responsibility_pattern/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chain_of_responsibility_pattern/src/chain_of_responsibility.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chain_of_responsibility_pattern/src/main.rs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/Cargo.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/Cargo.toml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/src/lib.rs" afterDir="false" />
@@ -3031,7 +3031,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "d755433f",
+    "git-widget-placeholder": "230ed09d",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",

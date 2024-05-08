@@ -3,6 +3,7 @@ members = [
     "adapter_pattern",
     "bridge_pattern",
     "builder_pattern",
+    "chain_of_responsibility_pattern",
     "command_pattern",
     "factory_pattern",
     "flyweight_pattern",
