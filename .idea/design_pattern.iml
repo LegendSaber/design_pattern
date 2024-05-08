@@ -16,6 +16,7 @@
       <sourceFolder url="file://$MODULE_DIR$/prototype_pattern/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/proxy_pattern/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/command_pattern/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/interpreter_pattern/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

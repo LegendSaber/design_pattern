@@ -2,9 +2,11 @@
 members = [
     "adapter_pattern",
     "bridge_pattern",
-    "builder_pattern", "command_pattern",
+    "builder_pattern",
+    "command_pattern",
     "factory_pattern",
     "flyweight_pattern",
+    "interpreter_pattern",
     "iterator_pattern",
     "observer_pattern",
     "prototype_pattern",
