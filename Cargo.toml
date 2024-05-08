@@ -7,7 +7,7 @@ members = [
     "factory_pattern",
     "flyweight_pattern",
     "interpreter_pattern",
-    "iterator_pattern",
+    "iterator_pattern", "mediator_pattern",
     "observer_pattern",
     "prototype_pattern",
     "proxy_pattern",

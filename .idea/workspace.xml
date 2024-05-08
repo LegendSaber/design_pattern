@@ -2735,9 +2735,9 @@
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/work-products.bin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd-197lsa3mlhw8cbeajos8ruc33/zqwzrdfhkxuca59.o" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo/target/debug/incremental/demo-3tej7ellepsp2/s-gvxt9u35bi-13qqezd.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interpreter_pattern/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interpreter_pattern/src/interpreter.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interpreter_pattern/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediator_pattern/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediator_pattern/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mediator_pattern/src/mediator.rs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/Cargo.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/Cargo.toml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../first_dll/src/lib.rs" afterDir="false" />
@@ -3028,7 +3028,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "bf9ea06e",
+    "git-widget-placeholder": "592c9379",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -3046,7 +3046,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Cargo.Run interpreter_pattern">
+  <component name="RunManager" selected="Cargo.Run mediator_pattern">
     <configuration name="Run command_pattern" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="command" value="run --package command_pattern --bin command_pattern" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -3098,8 +3098,8 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run prototype_pattern" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="command" value="run --package prototype_pattern --bin prototype_pattern" />
+    <configuration name="Run mediator_pattern" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package mediator_pattern --bin mediator_pattern" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
       <envs />
       <option name="emulateTerminal" value="true" />
@@ -3134,11 +3134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cargo.Run mediator_pattern" />
         <item itemvalue="Cargo.Run interpreter_pattern" />
         <item itemvalue="Cargo.Run command_pattern" />
         <item itemvalue="Cargo.Run proxy_pattern" />
         <item itemvalue="Cargo.Run flyweight_pattern" />
-        <item itemvalue="Cargo.Run prototype_pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -3155,7 +3155,7 @@
       <updated>1714980190234</updated>
       <workItem from="1714980191725" duration="310000" />
       <workItem from="1715042124373" duration="20572000" />
-      <workItem from="1715128796003" duration="2915000" />
+      <workItem from="1715128796003" duration="3689000" />
     </task>
     <servers />
   </component>
